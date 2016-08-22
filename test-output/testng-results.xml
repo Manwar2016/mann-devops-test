@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10045" started-at="2016-08-22T11:36:45Z" finished-at="2016-08-22T11:36:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10045" started-at="2016-08-22T11:36:45Z" finished-at="2016-08-22T11:36:55Z">
+      <class name="SeleniumTestDemo.selenium.devops.AppTest">
+        <test-method status="PASS" signature="seleniumStart()[pri:0, instance:SeleniumTestDemo.selenium.devops.AppTest@36d4b5c]" name="seleniumStart" is-config="true" duration-ms="2959" started-at="2016-08-22T17:06:45Z" finished-at="2016-08-22T17:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumStart -->
+        <test-method status="PASS" signature="testTitle()[pri:0, instance:SeleniumTestDemo.selenium.devops.AppTest@36d4b5c]" name="testTitle" duration-ms="7075" started-at="2016-08-22T17:06:48Z" finished-at="2016-08-22T17:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+      </class> <!-- SeleniumTestDemo.selenium.devops.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
